@@ -1,0 +1,20 @@
+body:
+  - type: markdown
+    attributes:
+      value: Use this category for possible bugs. A maintainer decides whether it becomes an issue.
+  - type: textarea
+    attributes:
+      label: Reproducer
+      description: A minimal, self-contained example that shows the problem.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Expected vs actual behaviour
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Version
+    validations:
+      required: true

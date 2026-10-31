@@ -4,7 +4,8 @@ This project is open source, but not open to unsolicited contributions.
 
 ## Discussions
 
-Start with a [discussion](https://github.marcelotryle.com/discussions). A maintainer decides whether it becomes an issue.
+Start with a [discussion](https://github.marcelotryle.com/discussions): "Potential Issue" for possible bugs, "Ideas" for
+feature requests, "Q&A" for questions. A maintainer decides whether it becomes an issue.
 
 For bugs, include a minimal reproducer, the version you use, and the expected vs actual behaviour.
 
