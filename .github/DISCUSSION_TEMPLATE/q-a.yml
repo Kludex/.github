@@ -1,0 +1,10 @@
+body:
+  - type: textarea
+    attributes:
+      label: Question
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Example
+      description: A minimal, self-contained example, if your question is about code.

@@ -1,0 +1,5 @@
+name = "repo-redirect"
+main = "worker.js"
+compatibility_date = "2026-10-31"
+workers_dev = false
+routes = [{ pattern = "github.marcelotryle.com", custom_domain = true }]

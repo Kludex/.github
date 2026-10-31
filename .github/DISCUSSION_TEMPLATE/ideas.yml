@@ -1,0 +1,13 @@
+body:
+  - type: textarea
+    attributes:
+      label: Problem
+      description: What are you trying to do, and why is it hard today?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Proposal
+      description: How you think it could work. Include a code example if you can.
+    validations:
+      required: true
